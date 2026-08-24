@@ -1,0 +1,3 @@
+from funcoes import calcular_orcamento_viagem
+
+calcular_orcamento_viagem()
